@@ -23,8 +23,8 @@
     "tmp": "tmp/ng2-mask-1.1.0.tgz_1497200001218_0.4080226714722812"
   },
   "_npmUser": {
-    "name": "igornepipenko",
-    "email": "igornepipenko@gmail.com"
+    "name": "diogocarolo",
+    "email": "diogocarolo@gmail.com"
   },
   "_npmVersion": "5.0.1",
   "_phantomChildren": {
@@ -101,7 +101,7 @@
     "tarball": "https://registry.npmjs.org/ng2-mask/-/ng2-mask-1.1.0.tgz"
   },
   "gitHead": "88785642fa3f43388502fd9326ca5d68b4eb308b",
-  "homepage": "https://github.com/NepipenkoIgor/ng2-mask#readme",
+  "homepage": "",
   "jsnext:main": "./build/ng2-mask.module.js",
   "keywords": [
     "ng2-mask",
@@ -118,20 +118,16 @@
   "main": "./build/ng2-mask.module.js",
   "maintainers": [
     {
-      "name": "igornepipenko",
-      "email": "igornepipenko@gmail.com"
-    },
-    {
-      "name": "stevermeister",
-      "email": "stevermeister@gmail.com"
+      "name": "diogocarolo",
+      "email": "diogocarolo@gmail.com"
     }
   ],
-  "name": "ng2-mask",
+  "name": "ng2-mask-renderer",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NepipenkoIgor/ng2-mask.git"
+    "url": "git+https://github.com/diogocarolo/ng2-mask-renderer.git"
   },
   "scripts": {
     "build": "ng build",
