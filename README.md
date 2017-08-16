@@ -16,6 +16,6 @@ In app.module.ts
 
 Add mask in your input as in the example below
 
-...
+```
 <input (blur)="validateDate(form.birthday)" value="{{form.birthday}}" mask='99/99/9999' required name="birthday" [(ngModel)]="form.birthday" type="text"/>
-...
+```
