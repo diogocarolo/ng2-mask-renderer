@@ -12,7 +12,7 @@ In app.module.ts
 2. imports: [ ..., Ng2MaskModule,....]
 
 
-##Using
+## Using
 
 Add mask in your input as in the example below
 
