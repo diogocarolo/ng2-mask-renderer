@@ -1,56 +1,9 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "ng2-mask@^1.0.5",
-        "scope": null,
-        "escapedName": "ng2-mask",
-        "name": "ng2-mask",
-        "rawSpec": "^1.0.5",
-        "spec": ">=1.0.5 <2.0.0",
-        "type": "range"
-      },
-      "/home/diogo/projeto/dtpd-cms-front"
-    ]
-  ],
-  "_from": "ng2-mask@>=1.0.5 <2.0.0",
-  "_id": "ng2-mask@1.1.0",
-  "_inCache": true,
-  "_location": "/ng2-mask",
-  "_nodeVersion": "8.0.0",
-  "_npmOperationalInternal": {
-    "host": "s3://npm-registry-packages",
-    "tmp": "tmp/ng2-mask-1.1.0.tgz_1497200001218_0.4080226714722812"
-  },
+  "name": "ng2-mask-renderer-diogo",
+  "version": "1.0.0",
   "_npmUser": {
     "name": "diogocarolo",
     "email": "diogocarolo@gmail.com"
-  },
-  "_npmVersion": "5.0.1",
-  "_phantomChildren": {
-    "symbol-observable": "1.0.4",
-    "tslib": "1.7.1"
-  },
-  "_requested": {
-    "raw": "ng2-mask@^1.0.5",
-    "scope": null,
-    "escapedName": "ng2-mask",
-    "name": "ng2-mask",
-    "rawSpec": "^1.0.5",
-    "spec": ">=1.0.5 <2.0.0",
-    "type": "range"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/ng2-mask/-/ng2-mask-1.1.0.tgz",
-  "_shasum": "2bbc505c9f4acfb99c92d5037f6ccb527ea0b37d",
-  "_shrinkwrap": null,
-  "_spec": "ng2-mask@^1.0.5",
-  "_where": "/home/diogo/projeto/dtpd-cms-front",
-  "angular-cli": {},
-  "bugs": {
-    "url": "https://github.com/NepipenkoIgor/ng2-mask/issues"
   },
   "dependencies": {
     "@angular/common": "^4.1.2",
@@ -66,7 +19,7 @@
     "ts-helpers": "^1.1.1",
     "zone.js": "^0.8.4"
   },
-  "description": "awesome ng2 mask",
+  "description": "awesome ng2 mask with renderer",
   "devDependencies": {
     "@angular/animations": "^4.1.2",
     "@angular/cli": "1.0.3",
@@ -94,26 +47,6 @@
     "typescript": "^2.3.4",
     "webdriver-manager": "10.2.5"
   },
-  "directories": {},
-  "dist": {
-    "integrity": "sha512-M53XxnOt3K8TI68SmhtvTdEo6rc4aPyPxHCv1btlYa5MjUlUaNWhVPv+YPmNoplht3qE3rYXRndT9/6avX6Vbw==",
-    "shasum": "2bbc505c9f4acfb99c92d5037f6ccb527ea0b37d",
-    "tarball": "https://registry.npmjs.org/ng2-mask/-/ng2-mask-1.1.0.tgz"
-  },
-  "gitHead": "88785642fa3f43388502fd9326ca5d68b4eb308b",
-  "homepage": "",
-  "jsnext:main": "./build/ng2-mask.module.js",
-  "keywords": [
-    "ng2-mask",
-    "ngx-mask",
-    "ng2",
-    "angular-mask",
-    "mask",
-    "angular",
-    "angular2",
-    "angular2-mask",
-    "ng2mask"
-  ],
   "license": "MIT",
   "main": "./build/ng2-mask.module.js",
   "maintainers": [
@@ -122,7 +55,7 @@
       "email": "diogocarolo@gmail.com"
     }
   ],
-  "name": "ng2-mask-renderer",
+
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
@@ -136,6 +69,5 @@
     "ng": "ng",
     "start": "ng serve",
     "test": "ng test"
-  },
-  "version": "1.1.0"
+  }
 }
